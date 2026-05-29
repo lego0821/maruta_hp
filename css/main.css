@@ -13,3 +13,8 @@
   weight: 200px;
   height: 200px;
 }
+#bottombar{
+  background-color: #eee;
+  padding: 20px auto;
+  color: #ccc;
+}
