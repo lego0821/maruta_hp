@@ -16,5 +16,7 @@
 #bottombar{
   background-color: #eee;
   padding: 20px auto;
-  color: #ccc;
+  margin: 20px auto;
+  color: #aas;
+  align: center;
 }
